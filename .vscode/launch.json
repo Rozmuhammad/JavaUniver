@@ -1,0 +1,33 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "lab9",
+            "request": "launch",
+            "mainClass": "lab9",
+            "projectName": "Java_85df064a"
+        },
+        {
+            "type": "java",
+            "name": "lab6",
+            "request": "launch",
+            "mainClass": "lab6",
+            "projectName": "Java_85df064a"
+        },
+        {
+            "type": "java",
+            "name": "lab8",
+            "request": "launch",
+            "mainClass": "lab8",
+            "projectName": "Java_85df064a"
+        },
+        {
+            "name": "Debug Java",
+            "type": "java",
+            "request": "launch",
+            "mainClass": "${file}",
+            "args": []
+        }
+    ]
+}
